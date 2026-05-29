@@ -5,7 +5,7 @@
 <p>Email Me 👉 ✉️ <strong>adityachauhanac5677@gmail.com</strong> For Collaboration/Project or Anything Else. 😊😊</p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-aditya-chauhan) <br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachauhan-dev) <br> 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityachauhanac5677@gmail.com) 
 
 
