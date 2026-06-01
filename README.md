@@ -28,7 +28,7 @@
 <hr />
 
 <h1>📁 Featured Projects:</h1>
-<h3>🚀 <a href="https://github.com" target="_blank">crm-project</a></h3>
+<h3>🚀 <a href="https://github.com/adityachauhan-dev/crm-project" target="_blank">crm-project</a></h3>
 <p><strong>Spring Boot CRM Project</strong></p>
 <ul>
   <li><strong>Tech Stack:</strong> Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, JavaScript, HTML, CSS, Maven.</li>
