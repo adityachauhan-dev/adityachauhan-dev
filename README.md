@@ -36,8 +36,3 @@
 </ul>
 
 <hr />
-<p>
-  <a href="https://itsvg.in" target="_blank">
-    <img src="https://komarev.com" alt="Visitor Count" />
-  </a>
-</p>
