@@ -28,10 +28,9 @@ I enjoy designing REST APIs, solving DSA problems, and continuously learning mod
 
 ## 🧩 Coding Profiles
 
-- 💻 **LeetCode:** https://leetcode.com/u/adityachauhan-dev/
-- 🐙 **GitHub:** https://github.com/adityachauhan-dev
-- 💼 **LinkedIn:** https://linkedin.com/in/adityachauhan-dev
-
+- 💻 **LeetCode:** [LeetCode](https://leetcode.com/u/adityachauhan-dev/)
+- 🐙 **GitHub:** [GitHub](https://github.com/adityachauhan-dev)
+- 💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/adityachauhan-dev)
 ---
 
 # 💻 Tech Stack & Skills
