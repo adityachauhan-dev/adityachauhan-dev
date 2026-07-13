@@ -28,11 +28,41 @@
 <hr />
 
 <h1>📁 Featured Projects:</h1>
-<h3>🚀 <a href="https://github.com/adityachauhan-dev/crm-project" target="_blank">crm-project</a></h3>
-<p><strong>Spring Boot CRM Project</strong></p>
+<h3>
+  🛒
+  <a href="https://github.com/adityachauhan-dev/Ecommerce-backend" target="_blank">
+    E-Commerce Backend API
+  </a>
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring_Boot-4CAF50?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-2E7D32?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+<p>
+  <b>🔹 Spring Boot E-Commerce Backend REST API</b>
+</p>
+
 <ul>
-  <li><strong>Tech Stack:</strong> Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, JavaScript, HTML, CSS, Maven.</li>
-  <li><strong>Features:</strong> Add new customers, View customer list, Update customer details, Delete customers, Search functionality, User Authentication.</li>
+  <li>🔐 Secure JWT Authentication & Role-Based Authorization</li>
+  <li>🛍️ Product, Category & Brand Management</li>
+  <li>🛒 Shopping Cart & Order Management</li>
+  <li>💳 Payment & Address Management</li>
+  <li>⭐ Product Reviews & Ratings</li>
+  <li>📄 REST APIs documented with Swagger/OpenAPI</li>
+  <li>🗄️ MySQL Database with Spring Data JPA & Hibernate</li>
+  <li>⚠️ Global Exception Handling & DTO Architecture</li>
 </ul>
+
+<p align="center">
+  ⭐ <b>If you like this project, don't forget to star the repository!</b>
+</p>
+
+<hr>
 
 <hr />
