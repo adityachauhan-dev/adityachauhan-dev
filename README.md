@@ -21,7 +21,16 @@ I enjoy designing REST APIs, solving DSA problems, and continuously learning mod
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachauhan-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityachauhan-dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adityachauhan-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityachauhanac5677@gmail.com)
+
+---
+
+## 🧩 Coding Profiles
+
+- 💻 **LeetCode:** https://leetcode.com/u/adityachauhan-dev/
+- 🐙 **GitHub:** https://github.com/adityachauhan-dev
+- 💼 **LinkedIn:** https://linkedin.com/in/adityachauhan-dev
 
 ---
 
