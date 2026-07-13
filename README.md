@@ -83,7 +83,7 @@ I enjoy designing REST APIs, solving DSA problems, and continuously learning mod
 # 📁 Featured Projects
 
 
-## 🛒 E-Commerce Backend API
+## 🛒 E-Commerce Backend APP
 
 ### 🔗 https://github.com/adityachauhan-dev/Ecommerce-backend
 
