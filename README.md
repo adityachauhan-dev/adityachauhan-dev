@@ -151,6 +151,8 @@ I enjoy designing REST APIs, solving DSA problems, and continuously learning mod
 
 - 🌱 React.js
 - 🔥 Advanced Spring Security
+- 📍 Microservice
+- ⭐ Docker
 - 📚 Data Structures & Algorithms (Java)
 - ⚡ System Design Basics
 
