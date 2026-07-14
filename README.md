@@ -149,7 +149,7 @@ I enjoy designing REST APIs, solving DSA problems, and continuously learning mod
 # 🚀 Currently Learning
 
 - 🌱 React.js
-- 🔥 Advanced Spring Security
+- 🔥 Basic AWS
 - 📍 Microservice
 - ⭐ Docker
 - 📚 Data Structures & Algorithms (Java)
