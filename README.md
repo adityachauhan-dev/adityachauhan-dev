@@ -1,6 +1,6 @@
 <h1 align="center">💫 Hi 👋, I'm Aditya Chauhan</h1>
 
-<h3 align="center">☕ Java Backend Developer | Spring Boot Developer | REST API Developer</h3>
+<h3 align="center">☕ Java Backend Developer | Software Developer | Full Stack Developer | Spring Boot Developer | REST API Developer</h3>
 
 <p align="center">
 Passionate Java Developer with hands-on experience in building secure and scalable backend applications using
