@@ -146,6 +146,38 @@ I enjoy designing REST APIs, solving DSA problems, and continuously learning mod
 
 ---
 
+## ☁️ Cloud Task Manager
+
+### 🔗 https://github.com/adityachauhan-dev/CloudTaskManager
+
+**Cloud-Based Task Management Application**
+
+**Tech Stack**
+
+* Java
+* Spring Boot
+* Spring Data
+* IBM Cloudant
+* HTML
+* CSS
+* JavaScript
+* Maven
+
+**Key Features**
+
+* ☁️ IBM Cloudant Cloud Database Integration
+* 👤 User Registration & Login
+* ✅ Create, Update & Delete Tasks
+* 📋 View & Manage Tasks
+* 🔍 Task Search & Organization
+* 🌐 RESTful APIs
+* 🏗️ Layered Architecture (Controller → Service → Repository)
+* 📄 Project Documentation & Presentation
+* 🔒 Secure Configuration using `.gitignore`
+
+
+---
+
 # 🚀 Currently Learning
 
 - 🌱 React.js
